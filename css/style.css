@@ -34,7 +34,7 @@ main {
 	margin-right: 50px;
 }
 
-.grey-bg-container h2 {
+.grey-bg-container a {
 	margin-bottom: 10px;
 	font-size: 22px;
 	color: #3D58A6;
@@ -47,6 +47,7 @@ main {
 	width: 355px;
 	margin: 0 17px;
 	font-size: 20px;
+	color: #333333;
 }
 
 .grey-bg-container img {
