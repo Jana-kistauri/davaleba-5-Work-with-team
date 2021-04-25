@@ -1,8 +1,10 @@
 .navbar{
 	display: inline-block;
+	padding-top: 20px;
 }
 .main-class{
 	display: inline-block;
+
 
 	}
 .facebook{
@@ -21,8 +23,7 @@ nav li>a {
 }
 .contact-section{
 	background-color: #E6E6E6;
-	height: 570px;
-}
+
 
 header>img{
 	width: 100px;
@@ -44,24 +45,48 @@ h2{
 }
 
 
+/*.logo,li{
+	vertical-align: middle;*/
+}
+.contact-div {
+	display: inline-block;
+	vertical-align:top;
+	margin-left: 50px;
+
+}
+
+.map{
+	width: 500px;
+	height: 500px;
+
+
+
+}
+
+.div-contact-1 {
+	display: inline-block;
+	vertical-align: top;
+}
+
 .logo,li{
 	vertical-align: middle;
 }
-
-
-.map{
-	display: inline-block;
+/*.map{
+	
 	position: absolute;
 	right:2%;
 }
+
 .map{
 	width: 50%;
 	height: 450px;
 	vertical-align: top;
+}*/
+
 }
 .youtube{
 	width: 24px,height:30px,margin-left:10px padding-left:30px;
 }
-
-
-	
+.main-class{
+	font-size: 22px;
+}
