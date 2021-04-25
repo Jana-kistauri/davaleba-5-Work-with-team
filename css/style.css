@@ -1,3 +1,4 @@
+
 .navbar{
 	display: inline-block;
 	padding-top: 20px;
@@ -90,3 +91,72 @@ h2{
 .main-class{
 	font-size: 22px;
 }
+
+  
+/*  Jana  */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+body {
+	padding: 30px;
+}
+
+main {
+	padding: 10px;
+	font-family: "Roboto", sans-serif;
+}
+
+
+/*main styles*/
+.featured-media {
+	margin: 20px 0;
+	font-size: 24px;
+}
+
+.featured-span {
+	border-right: 2px solid; 
+	padding-right: 10px
+}
+
+.grey-bg-container {
+	display: inline-block;
+	vertical-align: middle;
+	width: 570px;
+	padding: 10px 20px;
+	background-color: #F2F2F2;
+ }
+
+.left-box {
+	margin-right: 50px;
+}
+
+.grey-bg-container a {
+	margin-bottom: 10px;
+	font-size: 22px;
+	color: #3D58A6;
+	text-transform: uppercase;
+}
+
+.grey-bg-container p{
+	display: inline-block;
+	vertical-align: top;
+	width: 355px;
+	margin: 0 17px;
+	font-size: 20px;
+	color: #333333;
+}
+
+.grey-bg-container img {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 17px; 
+}
+
+.grey-bg-container div {
+	margin: 10px 0 20px 0; 
+}
+
+.second-box {
+	margin-top: 25px;
+}
+
