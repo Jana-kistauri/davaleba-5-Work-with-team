@@ -1,3 +1,99 @@
+
+.navbar{
+	display: inline-block;
+	padding-top: 20px;
+}
+
+.main-class{
+	display: inline-block;
+}
+
+
+.facebook{
+  	padding-right: 10px;
+    border-right: 1.5px solid #3D58A6;
+    margin-left: 20px;
+} 
+
+footer {
+    margin-top: 30px;
+}
+
+nav li>a {
+    font-size: 22px;
+    line-height: 30px;
+    color: #3D58A6;
+    text-decoration: none;
+}
+
+.contact-section{
+	background-color: #E6E6E6;
+
+header>img{
+	width: 100px;
+	margin-left: 40px;
+	margin-bottom: 30px;
+	vertical-align: top;
+
+}
+.main{
+	color:red;
+}
+
+h2{
+	color:blue;
+}
+.contact-div ul li{
+	padding: 5px;
+}
+
+.contact-div {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.map{
+	width: 500px;
+	height: 500px;
+}
+
+.div-contact-1 {
+	display: inline-block;
+	vertical-align: top;
+}
+
+
+.logo,.li{
+	vertical-align: middle;
+}
+.contact-div {
+	display: inline-block;
+	vertical-align:top;
+	margin-left: 50px;
+
+}
+
+
+.map{
+	width: 500px;
+	height: 500px;
+}
+
+
+
+
+.youtube{
+	width: 24px;
+	height:30px;
+	margin-left:10px;
+	padding-left:30px;
+}
+.main-class{
+	font-size: 22px;
+}
+
+  
+/*  Jana  */
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 
@@ -63,3 +159,4 @@ main {
 .second-box {
 	margin-top: 25px;
 }
+
