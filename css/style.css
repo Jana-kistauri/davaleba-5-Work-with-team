@@ -48,7 +48,7 @@ h2{
 
 .contact-div {
 	display: inline-block;
-	vertical-align: middle;
+	vertical-align: top;
 }
 
 .map{
@@ -58,7 +58,7 @@ h2{
 
 .div-contact-1 {
 	display: inline-block;
-	vertical-align: middle;
+	vertical-align: top;
 }
 
 .logo,li{
